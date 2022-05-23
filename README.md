@@ -85,7 +85,7 @@ phần 2: https://www.youtube.com/watch?v=4Riy1c6wl-E
 
     Load hình ảnh, âm thanh, animation đơn giản,...
 
-    Sử dụng các hàm trong thư viện SDL/SDL2
+    Sử dụng các hàm trong thư viện SDL2, SDL2_mixer, SDL2_ttf
 
 • C++
 
