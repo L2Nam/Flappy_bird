@@ -129,4 +129,4 @@ Hướng phát triển tiếp theo của game :
  
  Cài các thư viện bên ngoài ide vào để thực hiện chương trình
  
- ** Các nguồn tham khảo để thực hiện game: Lazyfoo (https://lazyfoo.net/tutorials/SDL/)
+ ** Các nguồn code tham khảo để thực hiện game: Lazyfoo (https://lazyfoo.net/tutorials/SDL/)
